@@ -261,7 +261,7 @@ References:
 [12]: http://arxiv.org/abs/1412.1897
 [13]: http://arxiv.org/abs/1312.6199
 [14]: http://arxiv.org/abs/1412.6572
-[15]: https://inclass.kaggle.com/c/2015-fall-vt-ece-deep-learning-hw2
+[15]: https://inclass.kaggle.com/c/2015-fall-vt-ece-deep-learning-homework-2
 
 ---
 
